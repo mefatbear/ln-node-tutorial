@@ -1,9 +1,8 @@
 # Bitcoin Lightning Network Node Express Tutorial
 
-Basic tutorial on developing Bitcoin Lightning applications using Node and Express. 
+Basic tutorial on developing Bitcoin Lightning applications using Node and Express.
 
-I highly recommend reading the full tutorial to understand how this repo works.
-
+I highly recommend reading the full tutorial to understand how this repo works. [http://digest.fatbear.io/issues/bitcoin-lightning-development-tutorial-node-express-751426](http://digest.fatbear.io/issues/bitcoin-lightning-development-tutorial-node-express-751426)
 
 ## Get Started
 
