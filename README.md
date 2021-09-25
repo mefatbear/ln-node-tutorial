@@ -14,6 +14,8 @@ I highly recommend reading the full tutorial to understand how this repo works. 
 6. `yarn start` to start express server.
 7. `curl http://localhost:4444/balance` to see balance
 
-## Follow Us On Twitter
+## Follow Us
 
 [FatBear](https://www.twitter.com/mefatbear)
+
+[Connect to our Node](https://amboss.space/node/020593994806de7eb9a8ae63d1687bd43abebdd158ac8fcb426ece6571980e09d8)
