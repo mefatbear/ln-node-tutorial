@@ -15,6 +15,8 @@ const lndClient = new LndGrpc({
   lndconnectUri: LND_CONNECT_URL,
 });
 
+// Initialise LND Client
+// This connects to the client and setups up a subscription to invoice events
 async function initLndClient() {
   await lndClient.connect();
 
